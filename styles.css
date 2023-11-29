@@ -1,0 +1,43 @@
+.labels {
+  display: inline-block;
+  padding: 7px 25px;
+  border: 4px solid black;
+  background-color: white;
+  margin: 0 50px;
+}
+
+.inputs {
+border: 4px solid black;
+padding: 8px;
+display: inline-block;
+
+}
+
+body {
+  background-color: #888cdc;
+}
+
+.container {
+  text-align: right;
+  margin: 20px;
+}
+
+.form-row {
+  padding: 10px;
+}
+
+.button-row{
+  display: inline-block;
+  margin-top: 30px;
+  padding: 8px 25px;
+  background-color: white;
+  border: 4px solid black; 
+  cursor: pointer;
+  text-align:right;
+  margin-right: 180px;
+
+}
+
+.title {
+  padding: 0 10px;
+}
